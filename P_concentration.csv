@@ -1,0 +1,63 @@
+﻿sample #,treatment,compartment,treatment_compartment,weight [mg],Conc [nmol P/ml],WL880.0,/3,conc [nmol P/10ml],conc [nmol P/mg root],[ng P/mg root]
+1,control,established,control_established,31.9,327.76,0.087,109.253,1092.533,34.249,1060.682
+5,control,established,control_established,12.2,222.045,0.059,74.015,740.15,60.668,1878.889
+9,control,established,control_established,18.4,421.011,0.112,140.337,1403.37,76.27,2362.085
+13,control,established,control_established,13.5,79.398,0.021,26.466,264.66,19.604,607.15
+17,control,established,control_established,20.8,116.791,0.031,38.93,389.303,18.717,579.65
+21,control,established,control_established,28.3,148.644,0.04,49.548,495.48,17.508,542.227
+25,control,established,control_established,11.6,73.397,0.02,24.466,244.657,21.091,653.191
+29,control,established,control_established,31.3,191.577,0.051,63.859,638.59,20.402,631.857
+33,control,established,control_established,16.1,100.634,0.027,33.545,335.447,20.835,645.266
+37,control,established,control_established,26.4,168.956,0.045,56.319,563.187,21.333,660.678
+41,control,established,control_established,29.8,156.492,0.042,52.164,521.64,17.505,542.12
+45,control,established,control_established,39.6,286.213,0.076,95.404,954.043,24.092,746.129
+49,control,established,control_established,21.3,122.331,0.033,40.777,407.77,19.144,592.894
+53,control,established,control_established,36.2,248.82,0.066,82.94,829.4,22.912,709.572
+57,control,established,control_established,40.7,281.596,0.075,93.865,938.653,23.063,714.253
+61,control,established,control_established,23.6,156.954,0.042,52.318,523.18,22.169,686.563
+65,control,established,control_established,19,111.713,0.03,37.238,372.377,19.599,606.974
+69,control,established,control_established,30,222.968,0.059,74.323,743.227,24.774,767.258
+73,control,established,control_established,51.6,417.318,0.111,139.106,1391.06,26.959,834.906
+77,control,established,control_established,32.5,213.274,0.057,71.091,710.913,21.874,677.446
+89,control,established,control_established,8.6,57.24,0.015,19.08,190.8,22.186,687.102
+93,control,established,control_established,41.2,319.912,0.085,106.637,1066.373,25.883,801.592
+97,control,established,control_established,14.6,81.707,0.022,27.236,272.357,18.655,577.732
+101,control,established,control_established,16.4,102.019,0.027,34.006,340.063,20.736,642.181
+105,control,established,control_established,16,99.71,0.027,33.237,332.367,20.773,643.337
+109,control,established,control_established,54.3,444.555,0.118,148.185,1481.85,27.29,845.173
+113,control,established,control_established,33.3,242.357,0.064,80.786,807.857,24.26,751.331
+117,control,established,control_established,28.9,177.727,0.047,59.242,592.423,20.499,634.856
+121,control,established,control_established,51,391.928,0.104,130.643,1306.427,25.616,793.334
+125,control,established,control_established,27.1,156.954,0.042,52.318,523.18,19.306,597.892
+129,control,established,control_established,24.7,172.649,0.046,57.55,575.497,23.299,721.584
+133,control,established,control_established,43,283.443,0.075,94.481,944.81,21.972,680.483
+137,lowP,established,lowP_established,24.8,158.8,0.042,52.933,529.333,21.344,661.026
+141,lowP,established,lowP_established,20.4,96.017,0.026,32.006,320.057,15.689,485.89
+145,lowP,established,lowP_established,12.7,53.085,0.014,17.695,176.95,13.933,431.507
+149,lowP,established,lowP_established,15.5,74.782,0.02,24.927,249.273,16.082,498.064
+153,lowP,established,lowP_established,29.5,133.41,0.036,44.47,444.7,15.075,466.86
+157,lowP,established,lowP_established,28.2,134.333,0.036,44.778,447.777,15.879,491.76
+161,lowP,established,lowP_established,30.2,147.721,0.039,49.24,492.403,16.305,504.958
+165,lowP,established,lowP_established,55.9,446.401,0.118,148.8,1488.003,26.619,824.391
+169,lowP,established,lowP_established,22.1,96.941,0.026,32.314,323.137,14.622,452.83
+173,lowP,established,lowP_established,34.7,148.644,0.04,49.548,495.48,14.279,442.219
+177,lowP,established,lowP_established,27.6,287.597,0.076,95.866,958.657,34.734,1075.71
+181,lowP,established,lowP_established,34.3,277.903,0.074,92.634,926.343,27.007,836.41
+185,lowP,established,lowP_established,30,120.484,0.032,40.161,401.613,13.387,414.599
+189,lowP,established,lowP_established,12.4,52.623,0.014,17.541,175.41,14.146,438.101
+193,lowP,established,lowP_established,20.4,74.32,0.02,24.773,247.733,12.144,376.093
+197,lowP,established,lowP_established,29.6,265.439,0.07,88.48,884.797,29.892,925.748
+201,lowP,established,lowP_established,13.9,52.162,0.014,17.387,173.873,12.509,387.4
+205,lowP,established,lowP_established,16.9,68.319,0.018,22.773,227.73,13.475,417.325
+209,lowP,established,lowP_established,10.1,36.928,0.01,12.309,123.093,12.187,377.446
+217,lowP,established,lowP_established,12.7,48.007,0.013,16.002,160.023,12.6,390.23
+225,lowP,established,lowP_established,26.8,136.18,0.036,45.393,453.933,16.938,524.564
+229,lowP,established,lowP_established,15,54.47,0.015,18.157,181.567,12.104,374.875
+233,lowP,established,lowP_established,15.9,69.242,0.019,23.081,230.807,14.516,449.565
+235,lowP,young,lowP_young,3,2.766,0.001,0.922,9.22,3.073,95.181
+237,lowP,established,lowP_established,22.3,92.324,0.025,30.775,307.747,13.8,427.395
+"pool1: 11, 15, 19, 23, 27",control,young,control_young,9.6,66.011,0.018,22.004,220.037,22.92,709.847
+pool2: 31,control,young,control_young,4.6,23.078,0.006,7.693,76.927,16.723,517.917
+"pool3: 139, 147",lowP,young,lowP_young,4.6,22.617,0.006,7.539,75.39,16.389,507.571
+"pool4: 151, 159, 163",lowP,young,lowP_young,3.9,17.077,0.005,5.692,56.923,14.596,452.03
+"pool5: 175, 231",lowP,young,lowP_young,7.4,33.234,0.009,11.078,110.78,14.97,463.629

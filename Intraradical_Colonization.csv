@@ -1,0 +1,14 @@
+#,H,A,V,H A,H V,A V,H A V,total count,,hyphal colonization %,arbuscules %,vesicles %,treatment,compartment,treatment_compartment
+1,29,2,0,10,3,0,1,100,,43.0,13.0,4.0,control,established,control_established
+5,21,2,1,3,3,0,0,87,,31.0,5.7,4.6,control,established,control_established
+9,24,2,0,6,4,0,1,83,,42.2,10.8,6.0,control,established,control_established
+13,18,3,0,8,2,0,0,100,,28.0,11.0,2.0,control,established,control_established
+17,20,1,0,2,5,0,0,57,,47.4,5.3,8.8,control,established,control_established
+137,13,4,0,7,3,0,1,77,,31.2,15.6,5.2,lowP,established,lowP_established
+141,20,4,1,6,3,0,0,79,,36.7,12.7,5.1,lowP,established,lowP_established
+145,37,0,0,2,2,0,2,100,,43.0,4.0,4.0,lowP,established,lowP_established
+149,24,2,0,6,0,0,0,100,,30.0,8.0,0.0,lowP,established,lowP_established
+153,15,1,0,1,2,0,0,72,,25.0,2.8,2.8,lowP,established,lowP_established
+"111,131",28,1,1,0,0,0,0,100,,28.0,1.0,1.0,control,young,control_young
+39,35,0,0,0,0,0,0,100,,35.0,0.0,0.0,control,young,control_young
+"183,223,239",15,0,1,0,0,0,0,82,,18.3,0.0,1.2,lowP,young,lowP_young
